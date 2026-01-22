@@ -36,5 +36,5 @@ Visualizations are used to understand how well the model separates the different
 ### Model Export
 The trained model is saved using joblib as saved_model.pkl.
 A class dictionary is also generated (e.g., {'elon musk': 0, 'lionel messi': 1...}) to map numerical predictions back to celebrity names.
-
-*Author*: Moein Gazestani
+---
+**Author:** Moein Gazestani
